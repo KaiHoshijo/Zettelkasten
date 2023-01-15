@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "2b728d45871a4c24",
+    "type": "split",
+    "children": [
+      {
+        "id": "46f283f59a60c509",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c91c6b84d19cecb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/COR/isEmpty11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b75d8112092ed402",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e6e040014713c4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/COR/checkFlag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "843db7b97e90ac0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d9d8b5d593b71ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1b073a883a1895c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4041405ea515f89c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#fleeting",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc3465b015e44411",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319.5
+  },
+  "right": {
+    "id": "b625cc696960cd0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdf01ddad51f23df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b51f57250bb63155",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a9fcaa84766af4e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b93f8c0cb1d31110",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0c87187131c7d977",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b75d8112092ed402",
+  "lastOpenFiles": [
+    "Projects/COR/isEmpty11.md",
+    "Projects/COR/checkFlag.md",
+    "Projects/COR/AntiDebuggingEmporium.md",
+    "Fleeting Notes/Hidden Password.md",
+    "Fleeting Notes/tls_callback_0.md",
+    "Fleeting Notes/filter_apt.md",
+    "Fleeting Notes/Untitled.md",
+    "Literature Notes/CTFs Write-ups/pwn.college/Program Interaction/Bash Commands to Run File/Manipulate Environment in Bash/Embryoio Level 14.md",
+    "Literature Notes/CTFs Write-ups/pwn.college/Program Interaction/Bash Commands to Run File/Manipulate Environment in Bash/Embryoio Level 11.md",
+    "Literature Notes/An Explanation on the Linux Permission Model.md"
+  ]
+}

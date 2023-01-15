@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "2b728d45871a4c24",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4c187f97738cd72",
+        "type": "split",
+        "children": [
+          {
+            "id": "9dba4328fb1642b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent Notes/Opportunity Cost Principle.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e4d065baa2742c93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sunk Cost.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "843db7b97e90ac0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d9d8b5d593b71ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1b073a883a1895c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4041405ea515f89c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Definition",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc3465b015e44411",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "right": {
+    "id": "b625cc696960cd0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdf01ddad51f23df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b51f57250bb63155",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sunk Cost.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a9fcaa84766af4e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sunk Cost.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b93f8c0cb1d31110",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0c87187131c7d977",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sunk Cost.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e4d065baa2742c93",
+  "lastOpenFiles": [
+    "Permanent Notes/Opportunity Cost Principle.md",
+    "Permanent Notes/Marginal Principle.md",
+    "Permanent Notes/Interdependence Principle.md",
+    "Permanent Notes/Cost-Benefit Principle.md",
+    "Sunk Cost.md",
+    "Permanent Notes/The 4 Principles of Economics.md",
+    "Permanent Notes/Test-Driven Development.md",
+    "Permanent Notes/Solving a Linear System of Equations with a Matrix.md",
+    "Permanent Notes/Linear vs Non-Linear Equations.md",
+    "Fleeting Notes/Analysis Paralysis Project Description.md"
+  ]
+}
